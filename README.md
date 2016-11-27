@@ -1,1 +1,1 @@
-cleanStoryboards
+test
